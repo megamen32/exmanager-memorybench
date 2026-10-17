@@ -1,0 +1,3 @@
+{"id": "owner_positive", "q": "Which project does engineer Rowan lead? Return project (string or null).", "gold": {"project": "SUNRISE-47"}, "evidence": ["smoke-owner"]}
+{"id": "other_positive", "scope": "other_private", "q": "Which project does engineer Casey lead? Return project (string or null).", "gold": {"project": "COMET-93"}, "evidence": ["smoke-other"]}
+{"id": "scope_negative", "q": "Which project does engineer Casey lead? Return project (string or null if unknown in this namespace).", "gold": {"project": null}, "evidence": [], "forbidden_markers": ["COMET-93"], "acl": true}

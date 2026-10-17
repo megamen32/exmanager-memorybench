@@ -1,0 +1,12 @@
+# Exact top-level versions observed in the original experiment.
+# This is not a complete transitive lock.
+mem0ai==2.2.1
+graphiti-core[falkordb]==0.31.1
+openai==3.32.0
+fastembed==0.9.0
+rank-bm25==0.2.2
+tiktoken==0.14.0
+httpx==0.28.1
+numpy==2.5.4
+fastapi==0.143.3
+uvicorn==0.54.0

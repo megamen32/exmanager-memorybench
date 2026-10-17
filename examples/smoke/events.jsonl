@@ -1,0 +1,2 @@
+{"id": "smoke-owner", "scope": "owner", "at": "2026-10-01T00:00:00Z", "origin": "synthetic_test", "text": "In this fictional test, engineer Rowan leads project SUNRISE-47. The project has two maintainers."}
+{"id": "smoke-other", "scope": "other_private", "at": "2026-10-01T00:01:00Z", "origin": "synthetic_test", "text": "In this fictional test, engineer Casey leads project COMET-93. This is the other_private namespace, not the owner namespace."}
